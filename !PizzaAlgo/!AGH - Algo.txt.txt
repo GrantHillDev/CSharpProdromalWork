@@ -1,0 +1,5 @@
+!AGH - !Algo.txt
+
+Step # 01: Choose a pizza place.
+Step # 02: Choose the pizza you would like.
+Step # 03: Order and enjoy.
