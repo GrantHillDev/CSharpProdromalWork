@@ -1,0 +1,34 @@
+A class in Python is a blueprint for creating objects (instances). A class defines attributes and methods that the objects created from the class will have. Here's a simple example:
+
+class Car:
+    def __init__(self, make, model, year):
+        self.make = make
+        self.model = model
+        self.year = year
+    
+    def start_engine(self):
+        print(f"The {self.year} {self.make} {self.model}'s engine is now running.")
+    
+    def stop_engine(self):
+        print(f"The {self.year} {self.make} {self.model}'s engine has stopped.")
+
+# Creating an object (instance) of the Car class
+my_car = Car("Toyota", "Corolla", 2022)
+
+# Accessing attributes
+print(my_car.make)  # Output: Toyota
+print(my_car.model)  # Output: Corolla
+print(my_car.year)  # Output: 2022
+
+# Calling methods
+my_car.start_engine()  # Output: The 2022 Toyota Corolla's engine is now running.
+my_car.stop_engine()   # Output: The 2022 Toyota Corolla's engine has stopped.
+
+Explanation:
+Class Definition: class Car: defines a class named Car.
+Constructor Method: __init__ is a special method that is called when an object is created from the class. It initializes the attributes of the class.
+Attributes: self.make, self.model, and self.year are attributes of the Car class.
+Methods: start_engine and stop_engine are methods that perform actions on the attributes of the class.
+Creating an Object: my_car = Car("Toyota", "Corolla", 2022) creates an instance of the Car class with the specified make, model, and year.
+Accessing Attributes and Methods: my_car.make accesses the make attribute, and my_car.start_engine() calls the start_engine method.
+This example shows how a class can be used to model real-world entities in Python.
