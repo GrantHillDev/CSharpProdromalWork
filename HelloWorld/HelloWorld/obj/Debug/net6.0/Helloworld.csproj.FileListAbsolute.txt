@@ -1,0 +1,15 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\bin\Debug\net6.0\Helloworld.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\bin\Debug\net6.0\Helloworld.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\refint\Helloworld.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\HelloWorld\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
