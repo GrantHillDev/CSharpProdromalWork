@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\HelloWorld\\Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\Helloworld\\Helloworld.csproj": {
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\HelloWorld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\HelloWorld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\Helloworld\\Helloworld.csproj",
+        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\HelloWorld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
