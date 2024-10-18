@@ -1,8 +1,0 @@
-!AGH - !Algo.txt
-
-Step # 01: Choose a pizza place.
-Step # 02: Choose the pizza you would like.
-Step # 03: Order and enjoy.
-Step # 04: Tip the delivery driver.
-Step # 05: Devour that pizza.
-Step # 06: Recycle the pizza box.
