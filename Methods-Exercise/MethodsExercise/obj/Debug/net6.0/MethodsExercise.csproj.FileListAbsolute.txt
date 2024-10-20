@@ -1,0 +1,15 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\Methods-Exercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
