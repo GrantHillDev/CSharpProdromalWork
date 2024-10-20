@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Methods-Exercise\\MethodsExercise\\MethodsExercise.csproj": {}
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Methods-Exercise\\MethodsExercise\\MethodsExercise.csproj": {
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Methods-Exercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
         "projectName": "MethodsExercise",
-        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Methods-Exercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Methods-Exercise\\MethodsExercise\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\MethodsExercise\\MethodsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
