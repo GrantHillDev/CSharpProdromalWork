@@ -1,0 +1,7 @@
+AGH - VS Community (IDE) Collective Directory
+
+Greetings, and welcome to this massive repository of amassed and organized subdirectories displaying all of my work in programming within the Visual Studio Community IDE space.
+
+Most of these projects have a separate repository currently available on my GitHub account for those who are interested in cloning or forking any of my work for themselves, though the purpose of this collective directory was to have all of my code-related work available for public viewing, though it's understood cloning or forking of individual subdirectories in this scenario is not available.
+
+I will be reassigning or deleting the other directories/repositories on here that contain copies of the works maintained inside of this directory/repository, but I'm more than happy to push up any one (or more) subdirectories in here back up to GitHub as its own repository so that it can be cloned/forked if desired (without necessarily forking/cloning all of the subdirectories in here with their respective files at once).
