@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\bin\Debug\netcoreapp3.1\360DegreeMultipliers.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\360DegreeMultipliers\obj\Debug\netcoreapp3.1\360DegreeMultipliers.genruntimeconfig.cache
