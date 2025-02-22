@@ -86,7 +86,7 @@ namespace CollectionsMasterConsoleUI
             Populater(numbersList);//not yet printed to console.
 
             //TODO: Print the new capacity
-            Console.WriteLine(numbersList.Capacity);//presents a value foo 64 each time its printed to the console because the number of indexes in the list will always be 50, which is grater than 32.
+            Console.WriteLine(numbersList.Capacity);//presents a value of 64 each time its printed to the console because the number of indexes in the list will always be 50, which is grater than 32.
 
             Console.WriteLine("---------------------");
 
