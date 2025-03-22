@@ -16,7 +16,7 @@ namespace CollectionsMasterConsoleUI
             var numberArray = new int[50];//inferred typed new array variable. This just defines the size of the array, but it doesn't specify what values it contains within its indexes.
 
             //TODO: Create a method to populate the number array with 50 random numbers that are between 0 and 50
-            Console.WriteLine("Creating a methos that creates an array of 51 numbers, and it will be instructed to contain values of numbers 0 through 50.");
+            Console.WriteLine("Creating a method that creates an array of 51 numbers, and it will be instructed to contain values of numbers 0 through 50.");
             Console.WriteLine("");
             Populater(numberArray);
             Console.WriteLine("");
@@ -58,7 +58,7 @@ namespace CollectionsMasterConsoleUI
             //TODO: Create a method that will set numbers that are a multiple of 3 to zero then print to the console all numbers
             Console.WriteLine("Multiple of three = 0: ");
             Console.WriteLine("");
-            ThreeKiller(numberArray);//No need to have this method prints its results to the console say by way of utilizing the NumberPrinter method because it's already called it within its scope.
+            ThreeKiller(numberArray);//No need to have this method print its results to the console say by way of utilizing the NumberPrinter method because it's already called it within its scope.
 
             Console.WriteLine("-------------------");
 
@@ -178,7 +178,7 @@ namespace CollectionsMasterConsoleUI
             }
             else
             {
-                Console.WriteLine($"Soory, the searched number, {searchNumber}, is not present.");
+                Console.WriteLine($"Sorry, the searched number, {searchNumber}, is not present.");
             }
         }
 
