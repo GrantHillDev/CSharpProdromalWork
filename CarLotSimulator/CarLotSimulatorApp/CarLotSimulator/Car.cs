@@ -29,7 +29,7 @@ namespace CarLotSimulator
         public void MakeHonkNoise(string honkNoise)
         {
             HonkNoise = honkNoise;
-            Console.WriteLine($"The {Year} {Make} {Model} emits a {HonkNoise} when you're pissed off at another driver.");
+            Console.WriteLine($"The {Year} {Make} {Model} emits a {HonkNoise} when you're pissed off at another driver. Oh, and it comes with {Mileage} miles already on it, as well an estimated average of {AverageMilesPerGallon} miles per gallon.");
         }
 
         public Car()//is this what a constructor is?
