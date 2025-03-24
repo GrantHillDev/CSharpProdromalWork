@@ -25,10 +25,22 @@ namespace BankEncapsulation
                 balance = value;
             }
         }
-        public void Deposit(double amount)//(double userDeposit)//this is an instance of what's known as a special member method.... essentially a method that is written within the scope of a class. It defines actions that a class can perform, just like a regular method would (without being written within a class, and therefore not a special member method).
+        public void BalanceReplacement(double amount)//(double userDeposit)//this is an instance of what's known as a special member method.... essentially a method that is written within the scope of a class. It defines actions that a class can perform, just like a regular method would (without being written within a class, and therefore not a special member method).
         {//this method provides the only access a user has to the private field (balance) -- this would be an instance of encapsulation. This allows the user to place a value within this field, but without manipulating it.
             balance = amount;//here, we've created a method that will accept a double and will then store that value in the balance field. The double has to be called something, and this is easy enough to do through variable declaration.
             //userDeposit.TryParseConsole.ReadLine();
+        }//this method would be categorized as a balance value replacement because it is only going to change whatever the current balance value is to whatever input it takes in, without necessarily adding to it, or subtracting from it.... it is only having user input being set equal to it.
+
+        public void Deposit(double amount)
+        {
+            balance = balance + amount;//I think this works the same way as the line of code written in below. I'll test it and see. Updated; looks like this does work!
+            //balance += amount;
+        }
+
+        public void Withdraw(double amount)
+        {
+            //balance = balance - amount;
+            balance -= amount;
         }
 
         public double GetBalance()//this method returns the amount stored within the balance field.
