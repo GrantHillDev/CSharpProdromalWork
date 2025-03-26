@@ -72,7 +72,7 @@ namespace ArraysAndLists
 
             for (var x = 0; x < oddNumbers.Count; x++)//for (var x = 0; x < oddNumbers.Length; x++)//for some reason, the .Length function works with arrays, but doesn't work with lists.... must use the .Count function instead.
             {//I don't see why the -1 value would be needed here regarding the oddNumbers.Count conditional, as it defines the total number of times x is going to not only execute its script, but also how many times it's going to print its value to the console.
-                Console.WriteLine(oddNumbers[x]);//Console.WriteLine(x) -- this just prints the value of x as it increments each time the script is executed, so we need to the script to print the value of x for ever 'count' of the 'oddNumbers' list.
+                Console.WriteLine(oddNumbers[x]);//Console.WriteLine(x) -- this just prints the value of x as it increments each time the script is executed, so we need to instruct the script to print the value of x for ever 'count' of the 'oddNumbers' list.
                 Console.WriteLine("");
             }
         }
