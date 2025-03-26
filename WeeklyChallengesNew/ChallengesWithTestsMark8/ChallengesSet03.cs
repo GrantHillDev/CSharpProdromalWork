@@ -10,7 +10,7 @@ namespace ChallengesWithTestsMark8
         {
             for (int i = 0; i < vals.Length; i++)//we aren't necessarily looking to populate an array with values in its indexes -- we just need a script that can parse through however many indexes it's going to have.
             {
-                if (vals[i] == false)//if i happens upon an index value fo false whilst it is parsing through the vals array, return true.
+                if (vals[i] == false)//if i happens upon an index value of false whilst it is parsing through the vals array, return true.
                 {
                     return true;
                 }
@@ -23,7 +23,7 @@ namespace ChallengesWithTestsMark8
         {
             if (numbers == null || numbers.Count() == 0)//make sure the system.Linq is enabled.
             {
-                return false;//Reemeber, this method is expecting a bool based value to be returned, so make sure that any returns are in the form of true or false.
+                return false;//Remember, this method is expecting a bool based value to be returned, so make sure that any returns are in the form of true or false.
             }
             var sum = numbers.Sum();
             return (sum % 2 != 0);//this didn't throw an error when the parentheses weren't present....
@@ -46,7 +46,7 @@ namespace ChallengesWithTestsMark8
                 }//Remember that if statements don't require else components, and are actually just fine without them, even for readability.... this IDE seems to like the idea also.
                 if (char.IsUpper(password[i]))
                 {
-                    containsUpper = true;//we can set a variable equal to the exact same value type we would as if we were to return a value of the same type without the use of a variable (thinking this could also work for other value types, not just ones as simple as booleans).
+                    containsUpper = true;//we can set a variable equal to the exact same value type we would as if we were to return a value of the same type without the use of a variable (thinking this could also work for other value types, not just ones as simple as Booleans).
                 }
                 if (char.IsNumber(password[i]))
                 {
@@ -76,7 +76,7 @@ namespace ChallengesWithTestsMark8
         //}
         //}
 
-        public char GetFirstLetterOfString(string val)//char can be used to parse through strings as if they were an array. Logical thought suggests that if there were no direct way of passing value types into a similar method that was using a sequence of numbers as a series of digits just like a string type would, then such numbers could actually be converted into strings anyway, but doing this would most likely obsolete, because the purpose of parsing through numbers is often different than parsing through reference types, even if they're individual characters/indexes (arrays versus strings).
+        public char GetFirstLetterOfString(string val)//char can be used to parse through strings as if they were an array. Logical thought suggests that if there were no direct way of passing value types into a similar method that was using a sequence of numbers as a series of digits just like a string type would, then such numbers could actually be converted into strings anyway, but doing this would most likely be obsolete, because the purpose of parsing through numbers is often different than parsing through reference types, even if they're individual characters/indexes (arrays versus strings).
         {
             return val.First();//this is yet another instance where if the system.LINQ namespace isn't written in for use of the program file as a whole, then such method extension are deemed non-existent by VS Community.
             //throw new NotImplementedException();
@@ -116,7 +116,7 @@ namespace ChallengesWithTestsMark8
          //Console.WriteLine(numbers[0]);         // First element: 10
          //Console.WriteLine(numbers[4]);         // Last element: 50
          //Console.WriteLine(numbers[numbers.Length - 1]); // Also last element: 50
-         //adding onto the example I wrote out above, if we wanted to access nums' sixth index, it'd be the same principle that we used to access its last index -- we'd be writing something along the lines of nums.Length - 5, because nums' sixth index can only be accessed in this instance by way of telling the computer to subtract a value of 5 from its total size, which is consequently going to yield the number 5, that's also the sixth index, because all indexes start at zero (apologies for redundancy, but it took me writing all of this out to concretely understand the relationship between indexes and collection sizes and how they constitute a uniform means of index accessibility within a collection type variable.
+         //adding onto the example I wrote out above, if we wanted to access nums' sixth index, it'd be the same principle that we used to access its last index -- we'd be writing something along the lines of nums.Length - 5, because nums' sixth index can only be accessed in this instance by way of telling the computer to subtract a value of 5 from its total size, which is consequently going to yield the number 5, that's also the sixth index, because all indexes start at zero (apologies for redundancy, but it took me writing all of this out to concretely understand the relationship between indexes and collection sizes and how they constitute a uniform means of index accessibility within a collection type variable).
         public int[] GetOddsBelow100()
         {
             var collection = new List<int>();//interesting that an inferred typed list doesn't require any form initialization, despite that being mandatory for other value types. Strange.
