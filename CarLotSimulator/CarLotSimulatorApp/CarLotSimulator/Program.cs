@@ -103,6 +103,12 @@ namespace CarLotSimulator
             //Instantiate the a Carlot at the beginning of the program and as you create a car add the car to the list.
             //At the end iterate through the list printing each of car's Year, Make, and Model to the console
             CarLotOne.CheckCars();//This works well to efficiently list out all of my created vehicles because we used the .Add method extension at the end of our newly instantiated CarLotOne object, whilst using dot notation to ensure its newly defined list property was also being implemented (CarLotOne.ParkingLot.Add(carFour) as an example);.
+
+            Console.WriteLine("");
+            Console.WriteLine("Onto determining how many cars have been crafted through this app.");
+            Console.WriteLine("");
+            Console.WriteLine($"Now, this CarLotSimulator application has built {CarLot.numberOfCars} different vehicles, and they've been added to its inventory space.");//again, it's important to note that class based methods must utilize the dot notation syntax to call them from their respective classes, or else C# won't know what in the world you're talking about, or trying to do.
+            Console.WriteLine("");
         }
     }
 }
