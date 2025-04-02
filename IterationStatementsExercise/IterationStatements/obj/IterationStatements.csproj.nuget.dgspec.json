@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj": {}
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\IterationStatementsExercise\\IterationStatements\\IterationStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj": {
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\IterationStatementsExercise\\IterationStatements\\IterationStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\IterationStatementsExercise\\IterationStatements\\IterationStatements.csproj",
         "projectName": "IterationStatements",
-        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\IterationStatementsExercise\\IterationStatements\\IterationStatements.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Iteration-Statements-Exercise\\IterationStatements\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\IterationStatementsExercise\\IterationStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",

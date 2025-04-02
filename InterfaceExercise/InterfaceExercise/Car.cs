@@ -8,22 +8,22 @@ namespace InterfaceExercise
 {
     public class Car : IVehicle, ICompany//we must bring over every single member created within each interface into any class that's inheriting from them -- the purpose of this is to ensure conformity to the interface.
     {
-        public bool hasSunRoof { get; set; } = true;//Car properties
-        public bool isStickShift { get; set; } = false;
-        public string model { get; set; } = "CR-V";//IVehicle properties
-        public int year { get; set; } = 2009;
-        public int numberOfWheels { get; set; } = 4;
-        public int numberOfSeats { get; set; } = 5;
-        public string typeOfFuel { get; set; } = "87 Octane fuel";
-        public int numberOfDoors { get; set; } = 4;
-        public string companyName { get; set; } = "Honda";//ICompany properties
-        public int numberOfYearsAsATopTen { get; set; } = 10;
-        public string logo { get; set; } = "Honda Symbol";
-        public string motto { get; set; } = "The Power of Dreams";
+        public bool HasSunRoof { get; set; } = true;//Car properties
+        public bool IsStickShift { get; set; } = false;
+        public string Model { get; set; } = "CR-V";//IVehicle properties
+        public int Year { get; set; } = 2009;
+        public int NumberOfWheels { get; set; } = 4;
+        public int NumberOfSeats { get; set; } = 5;
+        public string TypeOfFuel { get; set; } = "87 Octane fuel";
+        public int NumberOfDoors { get; set; } = 4;
+        public string CompanyName { get; set; } = "Honda";//ICompany properties
+        public int NumberOfYearsAsATopTen { get; set; } = 10;
+        public string Logo { get; set; } = "Honda Symbol";
+        public string Motto { get; set; } = "The Power of Dreams";
 
         public void DisplayInformation()//ICompany stubbed out method.
         {
-            Console.WriteLine($"The {companyName} corporation has allegedly spent {numberOfYearsAsATopTen} or more years as a top ten auto manufacturer, commercially displaying their {logo} and they go by the '{motto}' motto. Their {year} {model}'s sun roof {hasSunRoof}ly is awesome to open up and wave your hand through whilst driving down the highway in the summertime, and its non manual stick shift driving {isStickShift}ly makes it a sweet ride to show off. It sports {numberOfWheels} different wheels, but it comes equipped with {numberOfSeats} total seats, accepts a {typeOfFuel} gasoline type, and it even comes with {numberOfDoors} doors.");
+            Console.WriteLine($"The {CompanyName} corporation has allegedly spent {NumberOfYearsAsATopTen} or more years as a top ten auto manufacturer, commercially displaying their {Logo} and they go by the '{Motto}' motto. Their {Year} {Model}'s sun roof {HasSunRoof}ly is awesome to open up and wave your hand through whilst driving down the highway in the summertime, and its non manual stick shift driving {IsStickShift}ly makes it a sweet ride to show off. It sports {NumberOfWheels} different wheels, but it comes equipped with {NumberOfSeats} total seats, accepts a {TypeOfFuel} gasoline type, and it even comes with {NumberOfDoors} doors.");
             Console.WriteLine();
         }
 
@@ -31,7 +31,7 @@ namespace InterfaceExercise
 
         public void Drive()//IVehicle stubbed out methods.
         {
-            if (hasSunRoof == true && isStickShift == false)
+            if (HasSunRoof == true && IsStickShift == false)
             {
                 Console.WriteLine($"The {GetType().Name} is now driving forward, with its sun roof wide open.... too bad it doesn't have a stick shift.");
                 Console.WriteLine();
@@ -51,7 +51,7 @@ namespace InterfaceExercise
 
         public void Reverse()
         {
-            if (hasSunRoof == true && isStickShift == false)
+            if (HasSunRoof == true && IsStickShift == false)
             {
                 Console.WriteLine($"The {GetType().Name} is now reversing, with its sun roof wide open.... too bad it doesn't have a stick shift.");
                 Console.WriteLine();

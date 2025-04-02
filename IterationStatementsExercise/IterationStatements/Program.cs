@@ -155,7 +155,7 @@
 
             while (canParseInt == false)//what to while all outcomes of the user's response are false.
             {
-                Console.WriteLine("Well, it appears your repsonse was invalid, please try again.");
+                Console.WriteLine("Well, it appears your response was invalid, please try again.");
                 Console.WriteLine("");
                 canParseInt = double.TryParse(Console.ReadLine(), out userResponse);
             }
@@ -183,11 +183,11 @@
 
             while (pArseable == false)
             {
-                Console.WriteLine("Invalid repsonse. Please try again.");
+                Console.WriteLine("Invalid response. Please try again.");
                 Console.WriteLine("");
                 pArseable = int.TryParse(Console.ReadLine(), out numericValue);
             }//if else statements aren't needed here, and would create an excess of code.
-            //if (numericValue == int)//cannot set the declared value equal to a predefined type, let alone a type versus a value, even though it's intended for the program just to check and see if the user's input is an interger.
+            //if (numericValue == int)//cannot set the declared value equal to a predefined type, let alone a type versus a value, even though it's intended for the program just to check and see if the user's input is an integer.
             Console.WriteLine($"Alright, here we'll list out your provided input of {numericValue}, from 1, all the way up to 17.");
             Console.WriteLine("");
             Console.WriteLine($"One times {numericValue} is {numericValue * 1}.");
@@ -237,7 +237,7 @@
             }
             for (int i = 0; i <= 17; i++)
             {
-                Console.WriteLine($"{valueNumeric} x {i} = {valueNumeric*i}");
+                Console.WriteLine($"{valueNumeric} x {i} = {valueNumeric * i}");
             }
         }
 

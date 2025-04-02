@@ -8,10 +8,10 @@ namespace InterfaceExercise
 {
     public interface ICompany
     {
-        public string companyName { get; set; }
-        public int numberOfYearsAsATopTen { get; set; }
-        public string logo { get; set; }
-        public string motto { get; set; }
+        public string CompanyName { get; set; }
+        public int NumberOfYearsAsATopTen { get; set; }
+        public string Logo { get; set; }
+        public string Motto { get; set; }
 
         public void DisplayInformation();
     }

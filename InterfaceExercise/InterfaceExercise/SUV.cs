@@ -8,29 +8,29 @@ namespace InterfaceExercise
 {
     public class SUV : IVehicle, ICompany
     {
-        public bool isAllWheelDrive { get; set; } = true;//SUV properties//we can display the functionality of this property without ever having to print its value to the console.... we can achieve this via writing out a method that implements it as such (see below).
-        public bool hasAdaptiveCruiseControl { get; set; } = true;
-        public string model { get; set; } = "Optiq";//IVehicle properties
-        public int year { get; set; } = 2025;
-        public int numberOfWheels { get; set; } = 4;
-        public int numberOfSeats { get; set; } = 7;
-        public string typeOfFuel { get; set; } = "89 Octane fuel";
-        public int numberOfDoors { get; set; } = 4;
-        public string companyName { get; set; } = "Cadillac";//ICompany properties
-        public int numberOfYearsAsATopTen { get; set; } = 1;
-        public string logo { get; set; } = "Cadillac Symbol";
-        public string motto { get; set; } = "People in motion";
+        public bool IsAllWheelDrive { get; set; } = true;//SUV properties//we can display the functionality of this property without ever having to print its value to the console.... we can achieve this via writing out a method that implements it as such (see below).
+        public bool HasAdaptiveCruiseControl { get; set; } = true;
+        public string Model { get; set; } = "Optiq";//IVehicle properties
+        public int Year { get; set; } = 2025;
+        public int NumberOfWheels { get; set; } = 4;
+        public int NumberOfSeats { get; set; } = 7;
+        public string TypeOfFuel { get; set; } = "89 Octane fuel";
+        public int NumberOfDoors { get; set; } = 4;
+        public string CompanyName { get; set; } = "Cadillac";//ICompany properties
+        public int NumberOfYearsAsATopTen { get; set; } = 1;
+        public string Logo { get; set; } = "Cadillac Symbol";
+        public string Motto { get; set; } = "People in motion";
 
         public void DisplayInformation()//ICompany stubbed out method.
         {
-            Console.WriteLine($"The {companyName} corporation has allegedly spent {numberOfYearsAsATopTen} or more years as a top ten auto manufacturer, commercially displaying their {logo} and they go by the '{motto}' motto. Their {year} {model} {isAllWheelDrive}ly does feature an all-wheel drive functionality, and it {hasAdaptiveCruiseControl}ly has its own adaptive cruise control. It sports {numberOfWheels} different wheels, but it comes equipped with {numberOfSeats} total seats, accepts a {typeOfFuel} gasoline type, and it even comes with {numberOfDoors} doors.");
+            Console.WriteLine($"The {CompanyName} corporation has allegedly spent {NumberOfYearsAsATopTen} or more years as a top ten auto manufacturer, commercially displaying their {Logo} and they go by the '{Motto}' motto. Their {Year} {Model} {IsAllWheelDrive}ly does feature an all-wheel drive functionality, and it {HasAdaptiveCruiseControl}ly has its own adaptive cruise control. It sports {NumberOfWheels} different wheels, but it comes equipped with {NumberOfSeats} total seats, accepts a {TypeOfFuel} gasoline type, and it even comes with {NumberOfDoors} doors.");
             Console.WriteLine();
             //Console.WriteLine($"Currently, this {year}{companyName}{model} ");
         }
 
         public void Drive()//IVehicle stubbed out methods.
         {
-            if (isAllWheelDrive == true && hasAdaptiveCruiseControl == true)
+            if (IsAllWheelDrive == true && HasAdaptiveCruiseControl == true)
             {
                 Console.WriteLine($"The {GetType().Name} is now driving straight ahead, implementing a nifty adaptive cruise control feature, using all four of its wheels.");//here's one way of how we can provide an already defined method with even more functionality (per my note above).
                 Console.WriteLine();
@@ -54,7 +54,7 @@ namespace InterfaceExercise
 
         public void Reverse()
         {
-            if (isAllWheelDrive == true && hasAdaptiveCruiseControl == true)//adaptive cruise control probably doesn't retain as much validity when being applied to a vehicle going in reverse scenario.... but why not.
+            if (IsAllWheelDrive == true && HasAdaptiveCruiseControl == true)//adaptive cruise control probably doesn't retain as much validity when being applied to a vehicle going in reverse scenario.... but why not.
             {
                 Console.WriteLine($"The {GetType().Name} has been shifted into reverse, using all four of its wheels.");
                 Console.WriteLine();
