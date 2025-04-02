@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarLotSimulator
 {
-    internal class CarLot//so weird.... this VS Community had the audacity to tell me that my CarLot class wasn't making the newly defined list property type created down below 'accessible' enough when I gave the class a public access modifier. For some reason, VS Community prefers the interna; access modifier, which is actually less accessible than the public one.... very strange, VS Community.
+    internal class CarLot//so weird.... this VS Community had the audacity to tell me that my CarLot class wasn't making the newly defined list property type created down below 'accessible' enough when I gave the class a public access modifier. For some reason, VS Community prefers the internal access modifier, which is actually less accessible than the public one.... very strange, VS Community.
     {
         public List<Car> ParkingLot { get; set; } = new List<Car>();//this is the new class's only defining property.
 
