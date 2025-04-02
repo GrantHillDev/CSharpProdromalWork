@@ -1,0 +1,15 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\TC Assignments for Submission\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
