@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\TC Assignments for Submission\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {}
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\TC Assignments for Submission\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\TC Assignments for Submission\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\TC Assignments for Submission\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+        "projectPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\TC Assignments for Submission\\Factory-Pattern\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\OneDrive\\Desktop\\Repos\\Visual Studio (VS)\\Visual Studio (VS) [More Recent Works]\\Factory-Pattern\\FactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
