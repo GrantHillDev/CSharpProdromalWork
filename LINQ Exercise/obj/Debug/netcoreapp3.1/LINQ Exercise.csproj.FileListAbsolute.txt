@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\bin\Debug\netcoreapp3.1\LINQ Exercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\Visual Studio (VS)\Visual Studio (VS) [More Recent Works]\LINQ Exercise\obj\Debug\netcoreapp3.1\LINQ Exercise.genruntimeconfig.cache
