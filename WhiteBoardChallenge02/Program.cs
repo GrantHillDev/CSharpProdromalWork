@@ -24,25 +24,25 @@ namespace WhiteBoardChallenge02
             //{
             //    response = "fizzbuzz";
             //}
-            if ((input / 3 * 3) == input)//this technique reverse enigneers divisibility. if input is divisible by 3 and then multiplied by 3, it should be equal to itself. 
-            {
-                response = "fizz";
-            }
-            else if ((input / 5) * 5 == input)
-            {
-                response = "buzz";
-            }
-            else if ((input / 3) * 3 == input && (input / 5) * 5 == input)
+            if (input % 3 == 0 && input % 5 == 0) //if ((input / 3) * 3 == input && (input / 5) * 5 == input) -- my way works too!
             {
                 response = "fizzbuzz";
             }
+            else if (input % 3 == 0)//this technique reverse engineers divisibility. if input is divisible by 3 and then multiplied by 3, it should be equal to itself. 
+            {
+                response = "fizz";
+            }
+            else if (input % 5 == 0)
+            {
+                response = "buzz";
+            }
             return response;//all code paths must return a value. I imagine that response outside of these three selections statements would return its default value of blank.
         }
-        public string ReturnStringBasedOnNumber(int userInput)
+        public string ReturnStringBasedOnNumber(int userInput)//the correct way to do it.
         {
             var reply = "";
 
-            if (userInput % 3 == 0)//this might just be the only way I can think of to do this correctly.
+            if (userInput % 3 == 0)
             {
                 reply = "fizz";
             }
@@ -52,7 +52,7 @@ namespace WhiteBoardChallenge02
             }
             return reply;//all code paths must return a value. Thanks to VS Community; this notion has been drilled into my head time and again.... at least when a written method is expecting a return.
         }
-        public string ReturnReferenceTypeBasedOnNumbers(int userNumber)//disregard this one.
+        public string ReturnReferenceTypeBasedOnNumbers(int userNumber)//disregard this one. Cynthia; disregard. Miah disregard.
         {
             var answer = "";
 
@@ -69,6 +69,24 @@ namespace WhiteBoardChallenge02
                 answer = "fizzbuzz";
             }
             return answer;
+        }
+        public string Grant(int Hill)
+        {
+            var Andrew = "";
+
+            if ((Hill / 3) * 3 == Hill && (Hill / 5) * 5 == Hill)
+            {
+                Andrew = "fizzbuzz";
+            }
+            else if ((Hill / 3) * 3 == Hill)
+            {
+                Andrew = "fizz";
+            }
+            else if ((Hill / 5) * 5 == Hill)
+            {
+                Andrew = "buzz";
+            }
+            return Andrew;
         }
     }
 }
